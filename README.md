@@ -1,4 +1,4 @@
-# Assignment10Pearls
+# AssignmentSort
  
 # Clone and build the project
 mvn clean install
